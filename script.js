@@ -68,7 +68,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
   };
 
-  const whatsappBaseUrl = 'https://wa.me/5500000000000?text=';
+  const whatsappBaseUrl = 'https://wa.me/5566992109307?text=';
 
   // Modal Elementos
   const modal = document.getElementById('product-modal');
